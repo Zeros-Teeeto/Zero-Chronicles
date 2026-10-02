@@ -1,0 +1,6 @@
+{
+  "name": "Хроники Зеро",
+  "description": "Текстовая RPG игра в стиле темного фэнтези на базе Google Gemini с живым миром, картой, артами и кодексом",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
