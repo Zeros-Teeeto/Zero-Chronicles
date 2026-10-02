@@ -42,4 +42,3 @@
 - Android Studio Ladybug / Meerkat или новее
 - JDK 17+
 - Android SDK 35
-sha256:327958d929a625c8c912017efaf70bbb8ce0c1f1fe074a3cf00141af4a47ea6f
